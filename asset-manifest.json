@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nurse-web/static/css/main.8a752cee.css",
+    "main.js": "/nurse-web/static/js/main.803e4353.js",
+    "index.html": "/nurse-web/index.html",
+    "main.8a752cee.css.map": "/nurse-web/static/css/main.8a752cee.css.map",
+    "main.803e4353.js.map": "/nurse-web/static/js/main.803e4353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a752cee.css",
+    "static/js/main.803e4353.js"
+  ]
+}
