@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nurse-web/static/css/main.1c9b86fc.css",
-    "main.js": "/nurse-web/static/js/main.3136ba0b.js",
+    "main.css": "/nurse-web/static/css/main.dd053c6a.css",
+    "main.js": "/nurse-web/static/js/main.01ce69aa.js",
     "index.html": "/nurse-web/index.html",
-    "main.1c9b86fc.css.map": "/nurse-web/static/css/main.1c9b86fc.css.map",
-    "main.3136ba0b.js.map": "/nurse-web/static/js/main.3136ba0b.js.map"
+    "main.dd053c6a.css.map": "/nurse-web/static/css/main.dd053c6a.css.map",
+    "main.01ce69aa.js.map": "/nurse-web/static/js/main.01ce69aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9b86fc.css",
-    "static/js/main.3136ba0b.js"
+    "static/css/main.dd053c6a.css",
+    "static/js/main.01ce69aa.js"
   ]
 }
